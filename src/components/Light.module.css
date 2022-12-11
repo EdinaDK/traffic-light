@@ -1,0 +1,32 @@
+.traffic {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.red {
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    background-color: #ee0808;
+}
+.yellow {
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    background-color: #efa40c;
+}
+.green {
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    background-color: #0ea11b;
+}
+
+.inactive {
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    background-color: #282c34;
+}
